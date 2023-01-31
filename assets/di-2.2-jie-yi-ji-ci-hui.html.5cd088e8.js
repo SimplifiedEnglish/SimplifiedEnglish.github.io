@@ -1,0 +1,1 @@
+import{_ as i,o as t,c as a,a as e,b as c}from"./app.0756a1d5.js";const o={},r=e("h1",{id:"第2-2节-一级词汇",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第2-2节-一级词汇","aria-hidden":"true"},"#"),c(" 第2.2节 一级词汇")],-1),s=[r];function _(n,d){return t(),a("div",null,s)}const l=i(o,[["render",_],["__file","di-2.2-jie-yi-ji-ci-hui.html.vue"]]);export{l as default};
