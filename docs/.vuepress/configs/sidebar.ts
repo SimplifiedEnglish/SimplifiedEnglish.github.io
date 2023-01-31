@@ -20,5 +20,12 @@ export const sideBarConfig: SidebarConfig = [
 		'/di-1-zhang-jian-ti-ying-yu-gai-shu/di-1.6-jie-xun-du-yu-zhu-shi.md',
     ],
   },
- 
+   {
+    text: '第2章 单词',
+    children: [
+   		'/di-2-zhang-dan-ci/di-2.1-jie-gai-shu.md',
+		'/di-2-zhang-dan-ci/di-2.2-jie-yi-ji-ci-hui.md',
+		'/di-2-zhang-dan-ci/di-2.3-jie-er-ji-ci-hui.md',
+    ],
+  },
 ];
