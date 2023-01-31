@@ -1,4 +1,4 @@
-# 简体英语
+# 简体英语（SimplifiedEnglish）
 
 ## 基本规则
 
