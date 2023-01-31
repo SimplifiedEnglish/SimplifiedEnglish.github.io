@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as i,a as e,b as n}from"./app.b31cf80a.js";const c={},o=e("h1",{id:"第1-4节-发音规则的简化",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第1-4节-发音规则的简化","aria-hidden":"true"},"#"),n(" 第1.4节 发音规则的简化")],-1),r=[o];function s(_,d){return t(),i("div",null,r)}const l=a(c,[["render",s],["__file","di-1.4-jie-fa-yin-gui-ze-de-jian-hua.html.vue"]]);export{l as default};
