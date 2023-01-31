@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,a as o}from"./app.e6912b35.js";const s={},_=o("p",null,"Just pull.",-1),n=[_];function l(a,r){return t(),c("div",null,n)}const d=e(s,[["render",l],["__file","CONTRIBUTING.html.vue"]]);export{d as default};
