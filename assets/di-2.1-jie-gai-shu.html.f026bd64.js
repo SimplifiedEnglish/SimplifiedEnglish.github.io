@@ -1,1 +1,0 @@
-import{_ as a,o as t,c,a as e,b as s}from"./app.1ba20510.js";const o={},r=e("h1",{id:"第2-1节-概述",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第2-1节-概述","aria-hidden":"true"},"#"),s(" 第2.1节 概述")],-1),i=[r];function _(n,d){return t(),c("div",null,i)}const l=a(o,[["render",_],["__file","di-2.1-jie-gai-shu.html.vue"]]);export{l as default};
