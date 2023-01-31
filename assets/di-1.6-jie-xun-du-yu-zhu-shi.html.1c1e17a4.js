@@ -1,1 +1,0 @@
-import{_ as t,o as a,c,a as e,b as s}from"./app.29b293f4.js";const n={},o=e("h1",{id:"第1-6节-训读与注释",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第1-6节-训读与注释","aria-hidden":"true"},"#"),s(" 第1.6节 训读与注释")],-1),r=[o];function i(_,d){return a(),c("div",null,r)}const u=t(n,[["render",i],["__file","di-1.6-jie-xun-du-yu-zhu-shi.html.vue"]]);export{u as default};
