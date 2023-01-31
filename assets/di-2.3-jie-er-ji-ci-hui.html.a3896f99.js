@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as i,a as e,b as c}from"./app.5ef66cd9.js";const r={},o=e("h1",{id:"第2-3节-二级词汇",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第2-3节-二级词汇","aria-hidden":"true"},"#"),c(" 第2.3节 二级词汇")],-1),s=[o];function _(n,d){return a(),i("div",null,s)}const l=t(r,[["render",_],["__file","di-2.3-jie-er-ji-ci-hui.html.vue"]]);export{l as default};
