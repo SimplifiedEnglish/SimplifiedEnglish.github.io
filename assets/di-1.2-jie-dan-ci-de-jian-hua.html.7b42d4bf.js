@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,b as n}from"./app.efa50073.js";const i={},o=e("h1",{id:"第1-2节-单词的简化",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第1-2节-单词的简化","aria-hidden":"true"},"#"),n(" 第1.2节 单词的简化")],-1),r=[o];function s(d,_){return t(),c("div",null,r)}const l=a(i,[["render",s],["__file","di-1.2-jie-dan-ci-de-jian-hua.html.vue"]]);export{l as default};
